@@ -1,0 +1,26 @@
+.input {
+    direction: ltr;
+}
+
+.btn {
+    background-color: teal;
+    direction: ltr;
+}
+
+.Badge {
+    border-radius: 0px;
+}
+
+.bt {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: white;
+}
+
+.bt:hover {
+    color: black;
+}
